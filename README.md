@@ -1,6 +1,6 @@
 # MedEcho: Personalized Medical Insights with Cultural Context
 
-![Dashboard Screenshot](assets/dashboard_sample.png)
+![Dashboard Screenshot](assets/dashboard_1.png)
 
 🔗 [Live Demo](https://your-website-link.com) | 📬 Contact: your-email@example.com
 
