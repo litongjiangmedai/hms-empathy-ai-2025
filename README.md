@@ -1,14 +1,14 @@
-# MedEcho: Personalized Medical Insights with Cultural Context
 
 ![Dashboard Screenshot](assets/dashboard_1.png)
 
-Great! Here's an updated README that reflects this as a **capstone project** for the **Bioethics Master's Program at Harvard Medical School**, with emphasis on ethics, AI, and patient-centered care.
+a **capstone project** for the **Bioethics Master's Program at Harvard Medical School**, with emphasis on ethics, AI, and patient-centered care.
 
 ---
 
-# Empathy-AI: AI and Medical Empathy for Ethical Shared Decision-Making  
-**Capstone Project – Master of Bioethics, Harvard Medical School**
-
+#  AI and Medical Empathy for Ethical Shared Decision-Making  
+ **Capstone Project – Master of Bioethics, Harvard Medical School**
+mentee: Sydney Collins
+mentor: Litong Jiang  
 ---
 
 ## Overview
@@ -58,21 +58,3 @@ We welcome dialogue with:
 - Clinicians interested in ethical AI applications.
 - Students or researchers exploring shared decision-making models.
 
----
-
-## License
-
-This project is shared for **educational and academic purposes only** under an open-source license.
-
----
-
-## Contact
-
-**Litong Jiang**  
-Capstone Researcher, Master of Bioethics  
-Harvard Medical School  
-[GitHub Profile](https://github.com/litongjiangmedai)
-
----
-
-Let me know if you'd like to include faculty names, course details, or a section on future directions for the project!
