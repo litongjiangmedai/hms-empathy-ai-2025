@@ -5,55 +5,85 @@ a **capstone project** for the **Bioethics Master's Program at Harvard Medical S
 
 ---
 
-#  AI and Medical Empathy for Ethical Shared Decision-Making  
- **Capstone Project – Master of Bioethics, Harvard Medical School**
+AI and Medical Empathy for Ethical Shared Decision-Making
+Capstone Project – Master of Bioethics, Harvard Medical School
 
-mentee: Sydney Collins
-mentor: Litong Jiang  
+Mentee: Sydney Collins
+Mentor: Litong Jiang
 
+Overview
+Empathy-AI is a capstone research project developed as part of the Master of Bioethics Program at Harvard Medical School. This academic initiative explores how artificial intelligence (AI) can ethically support clinical decision-making by integrating patient values, life goals, and cultural backgrounds into treatment recommendations.
 
----
+Our goal is to bridge the gap between emerging AI technologies and human-centered care, promoting shared decision-making that respects autonomy, dignity, and individualized needs in complex healthcare environments.
 
-## Overview
+Project Objectives
+Ethical AI Integration: Investigate the use of large language models (LLMs) in developing value-sensitive clinical decision support tools.
 
-**Empathy-AI** is a **capstone research project** developed as part of the **Master of Bioethics** program at **Harvard Medical School**. This academic initiative explores how **artificial intelligence** can ethically support clinical decision-making by integrating **patient values, life goals, and cultural backgrounds** into treatment recommendations.
+Patient-Centered Decision Support: Design AI systems that honor career aspirations, religious beliefs, cultural identities, and personal life trajectories.
 
-We aim to bridge the gap between **technology** and **human empathy**, promoting **shared decision-making** that respects individual dignity and supports personalized care in diverse clinical settings.
+Bioethical Analysis: Critically examine the ethical dimensions of AI in medicine, focusing on:
 
----
+Autonomy: Supporting informed, voluntary patient choices.
 
-## Project Objectives
+Beneficence & Nonmaleficence: Enhancing well-being while avoiding harm through AI-assisted care.
 
-- **Ethical AI Integration**: Investigate the role of large language models (LLMs) in fostering value-sensitive clinical support systems.
-- **Patient-Centered Decision Support**: Develop AI tools that reflect patients' **career aspirations**, **religious or cultural beliefs**, and **personal goals**.
-- **Bioethical Analysis**: Evaluate the ethical implications of AI-assisted decision-making in clinical practice, emphasizing autonomy, beneficence, and justice.
-- **Prototype Development**: Build a functional framework to demonstrate how AI can aid in ethically complex medical choices.
+Justice: Addressing equity and access in AI-driven clinical environments.
 
----
+Prototype Development: Create a functional proof-of-concept that illustrates AI's role in ethically nuanced medical scenarios.
 
-## Key Features
+Key Features
+Value-Sensitive AI Models: Tailor recommendations through individualized patient narratives and contextual ethics.
 
-- **Value-Sensitive AI Models**: Tailoring clinical recommendations based on individual patient narratives.
-- **Ethics-Informed Design**: Grounded in bioethical principles from contemporary healthcare practice.
-- **Synthetic Patient Data**: Use of privacy-preserving datasets for safe development and testing.
-- **FHIR-Compatible Outputs**: Ensuring data interoperability with healthcare standards.
+Ethics-Informed Design: Embed principles from principlism, care ethics, and narrative bioethics in system architecture.
 
----
+Synthetic Patient Data: Utilize privacy-respecting synthetic cases for ethical AI development and testing.
 
-## Academic Context
+FHIR-Compatible Outputs: Ensure interoperability with healthcare data standards for real-world applicability.
 
-This project reflects the **interdisciplinary nature** of modern bioethics, drawing on fields such as:
+Bioethics Foundations
+This project is grounded in core bioethical principles and theoretical frameworks, including:
 
-- **Medical Ethics**
-- **Artificial Intelligence & Data Science**
-- **Clinical Medicine**
-- **Health Policy and Law**
+Principlism (Beauchamp and Childress): Autonomy, Beneficence, Nonmaleficence, Justice.
 
-It is guided by faculty mentors at **Harvard Medical School** and is part of a broader exploration into the future of **ethical AI in healthcare**.
+Narrative Ethics: Understanding patients' stories to shape ethical clinical choices.
 
----
+Relational Autonomy: Recognizing that decisions are made within social and cultural contexts.
 
-## Collaboration
+Care Ethics: Emphasizing empathy, responsiveness, and attentiveness in medical AI.
+
+Justice in Health AI: Addressing concerns of bias, fairness, and equitable access in algorithmic systems.
+
+We also explore contemporary ethical issues, such as:
+
+Algorithmic Transparency and Explainability.
+
+Data Privacy and Informed Consent in AI applications.
+
+Responsibility Attribution in AI-driven decisions.
+
+Academic Context
+This capstone reflects the interdisciplinary nature of modern bioethics, integrating insights from:
+
+Medical Ethics and Humanities
+
+Artificial Intelligence & Data Science
+
+Clinical Medicine & Patient Care
+
+Health Policy, Law, and Technology Regulation
+
+It is conducted under the mentorship of faculty at Harvard Medical School, contributing to ongoing discussions on the ethical deployment of AI in healthcare.
+
+Collaboration
+We welcome academic engagement and ethical discourse with:
+
+Bioethics scholars investigating AI, technology, and healthcare.
+
+Clinicians exploring patient-centered, ethically grounded AI tools.
+
+AI researchers committed to humanistic and responsible innovation.
+
+Students examining shared decision-making and value-based care models.
 
 We welcome dialogue with:
 
