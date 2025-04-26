@@ -7,6 +7,7 @@ a **capstone project** for the **Bioethics Master's Program at Harvard Medical S
 
 #  AI and Medical Empathy for Ethical Shared Decision-Making  
  **Capstone Project – Master of Bioethics, Harvard Medical School**
+
 mentee: Sydney Collins
 mentor: Litong Jiang  
 ---
