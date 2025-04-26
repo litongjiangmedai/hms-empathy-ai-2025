@@ -2,49 +2,77 @@
 
 ![Dashboard Screenshot](assets/dashboard_1.png)
 
-🔗 [Live Demo](https://your-website-link.com) | 📬 Contact: your-email@example.com
+Great! Here's an updated README that reflects this as a **capstone project** for the **Bioethics Master's Program at Harvard Medical School**, with emphasis on ethics, AI, and patient-centered care.
 
 ---
 
-## 💡 What is MedEcho?
-
-**MedEcho** is a prototype clinical dashboard designed to support **context-aware treatment planning**. It personalizes medical recommendations based on a patient's **occupation**, **religious beliefs**, and **personal values**.
-
-🧠 Our mission is to empower clinicians with AI-informed insights that align with **who the patient is**, not just what condition they have.
+# Empathy-AI: AI and Medical Empathy for Ethical Shared Decision-Making  
+**Capstone Project – Master of Bioethics, Harvard Medical School**
 
 ---
 
-## 🧩 Key Features
+## Overview
 
-- 🧾 Patient Summary with embedded context: profession, faith, allergies, health status
-- ⚠️ “Requests” panel surfaces culturally sensitive preferences (e.g., Halal, fasting periods)
-- 💊 AI-assisted plan generator suggests ethically and culturally suitable medications
-- 📆 Appointment scheduling & structured visit history
+**Empathy-AI** is a **capstone research project** developed as part of the **Master of Bioethics** program at **Harvard Medical School**. This academic initiative explores how **artificial intelligence** can ethically support clinical decision-making by integrating **patient values, life goals, and cultural backgrounds** into treatment recommendations.
 
----
-
-## 👀 Example Use Case
-
-**Patient:** Sarah Johnson  
-**Occupation:** Teacher  
-**Diagnosis:** Depression  
-**Religious Context:** Muslim; avoids gelatin and alcohol  
-**Personalized Suggestion:**  
-> Recommend tablet-form antidepressants (e.g., citalopram) instead of gelatin capsules. Discuss alcohol content and respect the patient’s spiritual decisions.
+We aim to bridge the gap between **technology** and **human empathy**, promoting **shared decision-making** that respects individual dignity and supports personalized care in diverse clinical settings.
 
 ---
 
-## 🛠️ System Architecture
+## Project Objectives
 
-```plaintext
-[Frontend: MedEcho UI]
-         ↓
-[Patient Profile Input]
-         ↓
-[Contextual Reasoning Engine]
-    └─ Rule-based filters (e.g., Halal meds)
-    └─ LLM-enhanced recommendation generator
-         ↓
-[Personalized Treatment Output]
-         ↓
-[Clinician Review & Scheduling Panel]
+- **Ethical AI Integration**: Investigate the role of large language models (LLMs) in fostering value-sensitive clinical support systems.
+- **Patient-Centered Decision Support**: Develop AI tools that reflect patients' **career aspirations**, **religious or cultural beliefs**, and **personal goals**.
+- **Bioethical Analysis**: Evaluate the ethical implications of AI-assisted decision-making in clinical practice, emphasizing autonomy, beneficence, and justice.
+- **Prototype Development**: Build a functional framework to demonstrate how AI can aid in ethically complex medical choices.
+
+---
+
+## Key Features
+
+- **Value-Sensitive AI Models**: Tailoring clinical recommendations based on individual patient narratives.
+- **Ethics-Informed Design**: Grounded in bioethical principles from contemporary healthcare practice.
+- **Synthetic Patient Data**: Use of privacy-preserving datasets for safe development and testing.
+- **FHIR-Compatible Outputs**: Ensuring data interoperability with healthcare standards.
+
+---
+
+## Academic Context
+
+This project reflects the **interdisciplinary nature** of modern bioethics, drawing on fields such as:
+
+- **Medical Ethics**
+- **Artificial Intelligence & Data Science**
+- **Clinical Medicine**
+- **Health Policy and Law**
+
+It is guided by faculty mentors at **Harvard Medical School** and is part of a broader exploration into the future of **ethical AI in healthcare**.
+
+---
+
+## Collaboration
+
+We welcome dialogue with:
+
+- Academics in bioethics, AI, or clinical research.
+- Clinicians interested in ethical AI applications.
+- Students or researchers exploring shared decision-making models.
+
+---
+
+## License
+
+This project is shared for **educational and academic purposes only** under an open-source license.
+
+---
+
+## Contact
+
+**Litong Jiang**  
+Capstone Researcher, Master of Bioethics  
+Harvard Medical School  
+[GitHub Profile](https://github.com/litongjiangmedai)
+
+---
+
+Let me know if you'd like to include faculty names, course details, or a section on future directions for the project!
