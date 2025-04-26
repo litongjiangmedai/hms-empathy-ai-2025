@@ -9,7 +9,8 @@ a **capstone project** for the **Bioethics Master's Program at Harvard Medical S
  **Capstone Project – Master of Bioethics, Harvard Medical School**
 
 mentee: Sydney Collins
-mentor: Litong Jiang  
+
+##mentor: Litong Jiang  
 ---
 
 ## Overview
