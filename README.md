@@ -60,7 +60,7 @@ This project is grounded in **core bioethical principles** and **theoretical fra
 - **Care Ethics**: Emphasizing empathy, responsiveness, and attentiveness in medical AI.
 - **Justice in Health AI**: Addressing concerns of bias, fairness, and equitable access in algorithmic systems.
 
-We also explore contemporary ethical issues in the future, such as:
+We also explore contemporary ethical issues in the next step, such as:
 - **Algorithmic Transparency** and **Explainability**.
 - **Data Privacy** and **Informed Consent** in AI applications.
 - **Responsibility Attribution** in AI-driven decisions.
@@ -76,7 +76,7 @@ This capstone reflects the **interdisciplinary nature** of modern bioethics, int
 - **Clinical Medicine & Patient Care**
 - **Health Policy, Law, and Technology Regulation**
 
-It is conducted under the mentorship of faculty at **Harvard Medical School**, contributing to ongoing discussions on the **ethical deployment of AI in healthcare**.
+It is conducted under the mentorship at **Harvard Medical School**, contributing to ongoing discussions on the **ethical deployment of AI in healthcare**.
 
 ---
 
