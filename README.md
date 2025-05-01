@@ -100,8 +100,6 @@ We welcome **academic engagement** and ethical discourse with:
 ## Future Plan
 Looking ahead, our primary goal is to advance bioethics as an empirical and conceptual discipline by continuing to explore how AI—particularly large language models—can serve as research instruments for ethical inquiry in healthcare.
 
-Expand Ethical Case Libraries: We plan to build a diverse corpus of synthetic clinical narratives representing ethically complex situations across cultures, age groups, and belief systems, allowing for systematic exploration of moral reasoning in different contexts.
-
 Evaluate Ethical Theories in Practice: Future studies will use AI-generated simulations to test the practical implications of bioethical frameworks—such as principlism, care ethics, and virtue ethics—by observing how these models shape decisions across varying patient stories.
 
 Collaborate with Bioethicists and Clinicians: We aim to deepen interdisciplinary dialogue by partnering with clinical ethicists, philosophers, and frontline practitioners to refine AI-assisted methods for ethical analysis, ensuring the research remains grounded in real-world complexity.
