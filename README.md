@@ -1,5 +1,6 @@
 
 ![Dashboard Screenshot](assets/dashboard.png)
+[Click here to view the demo video in .mov format](assets/demo05012025.mov)
 
 ---
 
