@@ -47,7 +47,7 @@ Theoretical Integration: Operationalize frameworks from principlism, care ethics
 
 Synthetic Case Methodology: Develop and analyze privacy-preserving synthetic patient profiles to ethically study edge cases, trade-offs, and biases in medical decision-making—without exposing real patient data.
 
-Ethics Research, Not Just Tool Design: Rather than building AI for deployment, the project prioritizes the use of AI as a reflective space for ethical analysis, offering a novel methodology for contemporary bioethics research.
+- Ethics Research, Not Just Tool Design: Rather than building AI for deployment, the project prioritizes the use of AI as a reflective space for ethical analysis, offering a novel methodology for contemporary bioethics research.
 ---
 
 ## Bioethics Foundations
