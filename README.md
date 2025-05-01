@@ -1,5 +1,5 @@
 
-![Dashboard Screenshot](assets/dashboard_1.png)
+![Dashboard Screenshot](assets/dashboard.png)
 
 ---
 
