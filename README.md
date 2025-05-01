@@ -1,5 +1,5 @@
 
-![Dashboard Screenshot](assets/dashboard.png)
+
 [![Watch the demo](https://img.youtube.com/vi/Mzvm_0DViNU/hqdefault.jpg)](https://www.youtube.com/watch?v=Mzvm_0DViNU)
 
 
@@ -111,3 +111,4 @@ Develop Ethical Reasoning Benchmarks: Instead of focusing on performance metrics
 Publish Methodologies for AI-Augmented Bioethics: As a research contribution, we will document and share protocols, challenges, and best practices for using LLMs in the study—not the automation—of ethics, offering new paradigms for how technology can enrich the field of bioethics.
 
 ---
+![Dashboard Screenshot](assets/dashboard.png)
