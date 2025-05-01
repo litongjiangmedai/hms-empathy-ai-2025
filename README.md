@@ -19,7 +19,7 @@ This project aims to bridge the divide between cutting-edge AI technologies and 
 
 ---
 
-##Project Objectives
+## Project Objectives
 
 AI as a Bioethics Research Tool: Utilize large language models (LLMs) to investigate and model ethical reasoning in clinical settings, positioning AI not only as a subject of ethical scrutiny, but also as a methodological instrument for advancing bioethics research itself.
 
@@ -37,7 +37,7 @@ Prototype as Research Instrument: Build a proof-of-concept LLM-based tool that s
 
 ---
 
-##Key Features
+## Key Features
 
 Bioethics-Driven Use of AI: Leverage large language models (LLMs) as instruments to explore and test bioethical concepts—focusing on how AI can model ethical reasoning, illuminate value conflicts, and simulate diverse clinical narratives for research purposes.
 
