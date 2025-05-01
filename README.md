@@ -3,7 +3,7 @@
 
 ---
 
-# AI and Medical Empathy for Ethical Shared Decision-Making  
+# AI and Medical Empathy for Ethical Shared Decision-Making Project
 **Capstone Project – Master of Bioethics, Harvard Medical School**
 
 **Mentee:** Sydney Collins  
@@ -13,36 +13,46 @@
 
 ## Overview
 
-**Empathy-AI** is a capstone research project developed as part of the **Master of Bioethics Program at Harvard Medical School**. This academic initiative explores how **artificial intelligence (AI)** can ethically support clinical decision-making by integrating **patient values**, **life goals**, and **cultural backgrounds** into treatment recommendations.
+The AI and Medical Empathy for Ethical Shared Decision-Making Project is the capstone research project of the Master of Bioethics Program at Harvard Medical School. Rooted in the core principles of bioethics, this initiative investigates how artificial intelligence (AI) can be ethically leveraged to enhance clinical decision-making by integrating patient values, life goals, and cultural identities into personalized care pathways.
 
-Our goal is to bridge the gap between **emerging AI technologies** and **human-centered care**, promoting **shared decision-making** that respects **autonomy**, **dignity**, and **individualized needs** in complex healthcare environments.
-
----
-
-## Project Objectives
-
-- **Ethical AI Integration**: Investigate the use of **large language models (LLMs)** in developing **value-sensitive** clinical decision support tools.
-- **Patient-Centered Decision Support**: Design AI systems that honor **career aspirations**, **religious beliefs**, **cultural identities**, and **personal life trajectories**.
-- **Bioethical Analysis**: Critically examine the ethical dimensions of AI in medicine, focusing on:
-  - **Autonomy**: Supporting informed, voluntary patient choices.
-  - **Beneficence & Nonmaleficence**: Enhancing well-being while avoiding harm through AI-assisted care.
-  - **Justice**: Addressing equity and access in AI-driven clinical environments.
-- **Prototype Development**: Create a functional **proof-of-concept** that illustrates AI's role in ethically nuanced medical scenarios.
+This project aims to bridge the divide between cutting-edge AI technologies and the ethical imperatives of human-centered medicine. By promoting shared decision-making that honors autonomy, dignity, informed consent, and contextual sensitivity, we seek to advance a model of care where technological innovation supports, rather than replaces, the moral agency of patients and clinicians.
 
 ---
 
-## Key Features
+##Project Objectives
 
-- **Value-Sensitive AI Models**: Tailor recommendations through individualized patient narratives and **contextual ethics**.
-- **Ethics-Informed Design**: Embed principles from **principlism**, **care ethics**, and **narrative bioethics** in system architecture.
-- **Synthetic Patient Data**: Utilize privacy-respecting synthetic cases for ethical AI development and testing.
-- **FHIR-Compatible Outputs**: Ensure interoperability with **healthcare data standards** for real-world applicability.
+AI as a Bioethics Research Tool: Utilize large language models (LLMs) to investigate and model ethical reasoning in clinical settings, positioning AI not only as a subject of ethical scrutiny, but also as a methodological instrument for advancing bioethics research itself.
 
+Value-Sensitive Clinical Modeling: Explore how LLMs can simulate ethically complex patient-clinician interactions, helping scholars and clinicians analyze how career aspirations, religious beliefs, cultural identities, and life goals influence ethical medical decision-making.
+
+Empirical Bioethical Inquiry: Use AI tools to systematically study key principles of bioethics in practice:
+
+Autonomy: How do patients understand and articulate their choices with LLM assistance?
+
+Beneficence & Nonmaleficence: Can LLMs help identify ethical dilemmas where treatments may have conflicting outcomes?
+
+Justice: Investigate how LLMs might reveal or reproduce disparities in care access, and how they might be redesigned for equity.
+
+Prototype as Research Instrument: Build a proof-of-concept LLM-based tool that serves as a research platform—not merely a product—enabling empirical and conceptual exploration of ethical challenges in modern medical decision-making.
+
+---
+
+##Key Features
+
+Bioethics-Driven Use of AI: Leverage large language models (LLMs) as instruments to explore and test bioethical concepts—focusing on how AI can model ethical reasoning, illuminate value conflicts, and simulate diverse clinical narratives for research purposes.
+
+Contextualized Ethical Simulation: Construct ethically complex patient scenarios—incorporating variables such as cultural background, personal values, and social determinants of health—to support empirical bioethics inquiry in simulated clinical settings.
+
+Theoretical Integration: Operationalize frameworks from principlism, care ethics, and narrative bioethics within LLM-driven simulations to examine how these theories perform in practice and guide decision-making.
+
+Synthetic Case Methodology: Develop and analyze privacy-preserving synthetic patient profiles to ethically study edge cases, trade-offs, and biases in medical decision-making—without exposing real patient data.
+
+Ethics Research, Not Just Tool Design: Rather than building AI for deployment, the project prioritizes the use of AI as a reflective space for ethical analysis, offering a novel methodology for contemporary bioethics research.
 ---
 
 ## Bioethics Foundations
 
-This project is grounded in **core bioethical principles** and **theoretical frameworks**, including:
+This project is grounded in **core bioethical principles** and **theoretical frameworks**, will include:
 
 - **Principlism** (Beauchamp and Childress): Autonomy, Beneficence, Nonmaleficence, Justice.
 - **Narrative Ethics**: Understanding patients' stories to shape ethical clinical choices.
