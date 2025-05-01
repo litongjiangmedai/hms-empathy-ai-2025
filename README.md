@@ -50,20 +50,26 @@ Synthetic Case Methodology: Develop and analyze privacy-preserving synthetic pat
 - Ethics Research, Not Just Tool Design: Rather than building AI for deployment, the project prioritizes the use of AI as a reflective space for ethical analysis, offering a novel methodology for contemporary bioethics research.
 ---
 
-## Bioethics Foundations
+## Bioethics 
+This project is grounded in core bioethical principles and theoretical frameworks, and uses AI—especially large language models (LLMs)—as tools to explore how clinical decision-making can become more ethically attuned and human-centered in practice.
 
-This project is grounded in **core bioethical principles** and **theoretical frameworks**, will include:
+Narrative Ethics: Using patient stories to shape morally sensitive clinical recommendations.
 
-- **Principlism** (Beauchamp and Childress): Autonomy, Beneficence, Nonmaleficence, Justice.
-- **Narrative Ethics**: Understanding patients' stories to shape ethical clinical choices.
-- **Relational Autonomy**: Recognizing that decisions are made within social and cultural contexts.
-- **Care Ethics**: Emphasizing empathy, responsiveness, and attentiveness in medical AI.
-- **Justice in Health AI**: Addressing concerns of bias, fairness, and equitable access in algorithmic systems.
+Relational Autonomy: Understanding that medical decisions are embedded in social, familial, and cultural contexts.
 
-We also explore contemporary ethical issues in the next step, such as:
-- **Algorithmic Transparency** and **Explainability**.
-- **Data Privacy** and **Informed Consent** in AI applications.
-- **Responsibility Attribution** in AI-driven decisions.
+Care Ethics: Highlighting empathy, attentiveness, and responsiveness as essential values in AI design and use.
+
+Justice in Health AI: Investigating how algorithms may reinforce or mitigate inequities in access, treatment, and outcomes.
+
+Looking ahead, we also examine pressing contemporary ethical challenges related to the use of LLMs in healthcare:
+
+Algorithmic Transparency and Explainability in clinical contexts.
+
+Data Privacy and Informed Consent in the use of AI systems.
+
+Responsibility Attribution when decisions are influenced by AI recommendations.
+
+By embedding these ethical frameworks into our LLM-driven simulations, we aim not to build AI that replaces clinicians—but to use AI as a lens for studying and advancing ethical, patient-centered care.
 
 ---
 
