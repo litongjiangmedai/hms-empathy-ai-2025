@@ -60,7 +60,7 @@ This project is grounded in **core bioethical principles** and **theoretical fra
 - **Care Ethics**: Emphasizing empathy, responsiveness, and attentiveness in medical AI.
 - **Justice in Health AI**: Addressing concerns of bias, fairness, and equitable access in algorithmic systems.
 
-We also explore contemporary ethical issues, such as:
+We also explore contemporary ethical issues in the future, such as:
 - **Algorithmic Transparency** and **Explainability**.
 - **Data Privacy** and **Informed Consent** in AI applications.
 - **Responsibility Attribution** in AI-driven decisions.
