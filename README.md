@@ -1,6 +1,7 @@
 
 ![Dashboard Screenshot](assets/dashboard.png)
-[Click here to view the demo video in .mov format](assets/demo05012025.mov)
+[![Watch the demo](https://img.youtube.com/vi/Mzvm_0DViNU/hqdefault.jpg)](https://www.youtube.com/watch?v=Mzvm_0DViNU)
+
 
 ---
 
