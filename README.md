@@ -112,7 +112,7 @@ Publish Methodologies for AI-Augmented Bioethics: As a research contribution, we
 
 ## Acknowledgments
 
-This project was supported by the guidance of faculty mentor Dr. Michael Ieong and the resources provided by the Center for Bioethics at Harvard Medical School. Their support has been invaluable to the development of this work.
+This project was supported by the guidance and resources provided by the Center for Bioethics at Harvard Medical School. Their support has been invaluable to the development of this work.
 
 ---
 
