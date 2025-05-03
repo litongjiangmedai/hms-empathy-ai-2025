@@ -8,8 +8,6 @@
 **Mentee:** Sydney Collins  
 **Mentor:** Litong Jiang
 
----
-[![Watch the demo](https://img.youtube.com/vi/Mzvm_0DViNU/hqdefault.jpg)](https://www.youtube.com/watch?v=Mzvm_0DViNU)
 
 ---
 
