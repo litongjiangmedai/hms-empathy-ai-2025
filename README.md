@@ -1,5 +1,4 @@
 
-![Dashboard Screenshot](assets/dashboard.png)
 ---
 
 # AI and Medical Empathy for Ethical Shared Decision-Making Project
