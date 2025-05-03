@@ -6,7 +6,7 @@
 **Capstone Project – Master of Bioethics, Harvard Medical School**
 
 **Mentee:** Sydney Collins  
-**Mentor:** Litong Jiang
+**Capstone Mentor:** Dr. Litong Jiang,  **Faculty  Mentor:** Dr. Michael Ieong
 
 
 ---
