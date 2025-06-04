@@ -7,8 +7,7 @@
 **Mentee:** Sydney Collins  
 **Capstone Mentor:** Dr. Litong Jiang,    **Faculty  Mentor:** Dr. Michael Ieong
 
-![Michael Ieong, Sydney Collins, Litong Jiang](https://github.com/hms-empathy-ai-2025/HMS_Bioethics_2025.jpg?raw=true)
-
+![Michael Ieong, Sydney Collins, Litong Jiang](https://github.com/litongjiangmedai/hms-empathy-ai-2025/blob/main/HMS_Bioethics_2025.jpg?raw=true)
 
 
 ---
