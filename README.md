@@ -3,6 +3,7 @@
 
 # AI and Medical Empathy for Ethical Shared Decision-Making Project
 **Capstone Project – Master of Bioethics, Harvard Medical School**
+
 _Congratulations to Sydney Collins on successfully completing her/his Master’s degree!_
 
 **Mentee:** Sydney Collins  
